@@ -15,8 +15,8 @@ This is a fashion website built for GESP company, to serve as a place where girl
 # Donate to support us by sending %5 to Kim on 5427-23353-23 or https://gesp.pay.com/donate/5
 
 # Home page
-! [HOME](screenshots/home.png.png)
+! [HOME](screenshots/home.png)
 
 # About page
-! [HOME](screenshots/img2.png.png)
+! [HOME](screenshots/img2.png)
 
